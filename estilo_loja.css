@@ -1,0 +1,27 @@
+<style>
+  body {
+    background-image: url("imagens/videira.png");
+    background-repeat: no-repeat;
+  }
+  img {
+    border: 4px solid #38761d;
+    margin-right: 20%;
+    margin-top: 5%;
+    margin-bottom: 10%;
+  }
+  p {
+    font-family: "Arial";
+    text-align: center;
+  }
+  table {
+      border-collapse: collapse;
+      width:50%;
+      height: auto;
+      margin-left:15%;
+      margin-right:15%;
+  }
+  table, th, td {
+      border: 1px solid black;
+      text-align: center;
+  }
+</style>
