@@ -1,21 +1,18 @@
-<body>
-  <style>
-    h1 {
-      color: #38761d;       /* cor do texto */
-      font-family: "Times new roman";
-      size: 18;
-    }
-    h2 {
-      color: #38761d;       /* cor do texto */
-      font-family: "Times new roman";
-      size: 14;
-    }
-    p {
-      font-family: "Arial";
-      text-align: center;
-    }
-    img {
-      border: 4px solid #38761d;
-      text-align: center;
-    }
-  </style>
+h1 {
+  color: #38761d;       /* cor do texto */
+  font-family: "Times new roman";
+  size: 18;
+}
+h2 {
+  color: #38761d;       /* cor do texto */
+  font-family: "Times new roman";
+  size: 14;
+}
+p {
+  font-family: "Arial";
+  text-align: center;
+}
+img {
+  border: 4px solid #38761d;
+  text-align: center;
+}
